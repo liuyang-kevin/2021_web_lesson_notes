@@ -1,0 +1,13 @@
+{
+  "name": "xxxxxx",
+  "version": "1.0.0",
+  "description": "我准备写个demo",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "liu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
